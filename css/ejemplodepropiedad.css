@@ -1,0 +1,9 @@
+h1 {
+  text-shadow: -1px -1px white, 1px 1px black;
+  box-shadow: 10px 5px 5px red;
+  border-width: thick;
+}
+
+.container {
+  border-color: black;
+}
